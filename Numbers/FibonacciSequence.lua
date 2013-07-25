@@ -1,3 +1,5 @@
+--
+-- This version prints justs the Nth Fibonacci number.
 
 function fib(n)
 	if n < 2 then
@@ -8,4 +10,4 @@ function fib(n)
 	end
 end
 
-print(fib(tonumber(arg[1]) - 1));
+print(fib(arg[1] - 1));
