@@ -12,17 +12,17 @@ Numbers
 
 [**Next Prime Number**](https://github.com/noooon/Projects/blob/master/Numbers/NextPrimeNumber.lua) - Have the program find prime numbers until the user chooses to stop asking for the next one.
 
-**Find Cost of Tile to Cover W x H Floor** - Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
+[**Find Cost of Tile to Cover W x H Floor**](https://github.com/noooon/Projects/blob/master/Numbers/TileCost.lua) - Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
 
-**Mortgage Calculator** - Calculate the monthly payments of a fixed term mortgage over given Nth terms at a given interest rate. Also figure out how long it will take the user to pay back the loan.
+[**Mortgage Calculator**](https://github.com/noooon/Projects/blob/master/Numbers/MortgageCalc.lua) - Calculate the monthly payments of a fixed term mortgage over given Nth terms at a given interest rate. Also figure out how long it will take the user to pay back the loan.
 
-**Change Return Program** - The user enters a cost and then the amount of money given. The program will figure out the change and the number of quarters, dimes, nickels, pennies needed for the change.
+[**Change Return Program**](https://github.com/noooon/Projects/blob/master/Numbers/ChangeReturn.lua) - The user enters a cost and then the amount of money given. The program will figure out the change and the number of quarters, dimes, nickels, pennies needed for the change.
 
-**Binary to Decimal and Back Converter** - Develop a converter to convert a decimal number to binary or a binary number to its decimal equivalent.
+[**Binary to Decimal and Back Converter**](https://github.com/noooon/Projects/blob/master/Numbers/BinaryDecimalConverter.lua) - Develop a converter to convert a decimal number to binary or a binary number to its decimal equivalent.
 
 **Calculator** - A simple calculator to do basic operators. Make it a scientific calculator for added complexity.
 
-**Unit Converter (temp, currency, volume, mass and more)** - Converts various units between one another. The user enters the type of unit being entered, the type of unit they want to convert to and then the value. The program will then make the conversion.
+(**Unit Converter (temp, currency, volume, mass and more)**](https://github.com/noooon/Projects/blob/master/Numbers/UnitConverter.py) - Converts various units between one another. The user enters the type of unit being entered, the type of unit they want to convert to and then the value. The program will then make the conversion.
 
 **Alarm Clock** - A simple clock where it plays a sound after X number of minutes/seconds or at a particular time.
 
@@ -34,7 +34,7 @@ Numbers
 
 **Dijkstra’s Algorithm** - Create a program that finds the shortest path through a graph using its edges.
 
-**Factorial Finder** - The Factorial of a positive integer, n, is defined as the product of the sequence n, n-1, n-2, ...1 and the factorial of zero, 0, is defined as being 1. Solve this using both loops and recursion.
+[**Factorial Finder**](https://github.com/noooon/Projects/blob/master/Numbers/Factorial.py) - The Factorial of a positive integer, n, is defined as the product of the sequence n, n-1, n-2, ...1 and the factorial of zero, 0, is defined as being 1. Solve this using both loops and recursion.
 
 **Complex Number Algebra** - Show addition, multiplication, negation, and inversion of complex numbers in separate functions. (Subtraction and division operations can be made with pairs of these operations.) Print the results for each operation tested.
 
