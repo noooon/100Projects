@@ -1,8 +1,6 @@
 Numbers
 ---------
 
-**Mortgage Calculator** - Calculate the monthly payments of a fixed term mortgage over given Nth terms at a given interest rate. Also figure out how long it will take the user to pay back the loan.
-
 **Calculator** - A simple calculator to do basic operators. Make it a scientific calculator for added complexity.
 
 **Alarm Clock** - A simple clock where it plays a sound after X number of minutes/seconds or at a particular time.
