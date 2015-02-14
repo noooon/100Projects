@@ -22,7 +22,7 @@ Numbers
 
 **Calculator** - A simple calculator to do basic operators. Make it a scientific calculator for added complexity.
 
-(**Unit Converter (temp, currency, volume, mass and more)**](https://github.com/noooon/Projects/blob/master/Numbers/UnitConverter.py) - Converts various units between one another. The user enters the type of unit being entered, the type of unit they want to convert to and then the value. The program will then make the conversion.
+[**Unit Converter (temp, currency, volume, mass and more)**](https://github.com/noooon/Projects/blob/master/Numbers/UnitConverter.py) - Converts various units between one another. The user enters the type of unit being entered, the type of unit they want to convert to and then the value. The program will then make the conversion.
 
 **Alarm Clock** - A simple clock where it plays a sound after X number of minutes/seconds or at a particular time.
 
@@ -45,11 +45,11 @@ Numbers
 Text
 ---------
 
-**Reverse a String** - Enter a string and the program will reverse it and print it out.
+[**Reverse a String**](https://github.com/noooon/Projects/blob/master/Text/ReverseString.py) - Enter a string and the program will reverse it and print it out.
 
 **Pig Latin** - Pig Latin is a game of alterations played on the English language game. To create the Pig Latin form of an English word the initial consonant sound is transposed to the end of the word and an ay is affixed (Ex.: "banana" would yield anana-bay). Read Wikipedia for more information on rules.
 
-**Count Vowels** - Enter a string and the program counts the number of vowels in the text. For added complexity have it report a sum of each vowel found.
+[**Count Vowels**](https://github.com/noooon/Projects/blob/master/Text/CountVowels.py) - Enter a string and the program counts the number of vowels in the text. For added complexity have it report a sum of each vowel found.
 
 **Check if Palindrome** - Checks if the string entered by the user is a palindrome. That is that it reads the same forwards as backwards like “racecar”
 
@@ -67,7 +67,7 @@ Text
 
 **Fortune Teller (Horoscope)** - A program that checks your horoscope on various astrology sites and puts them together for you each day.
 
-**Vigenere / Vernam / Ceasar Ciphers** - Functions for encrypting and decrypting data messages. Then send them to a friend.
+[**Vigenere / Vernam / Ceasar Ciphers**](https://github.com/noooon/Projects/blob/master/Text/Ciphers.py) - Functions for encrypting and decrypting data messages. Then send them to a friend.
 
 **Random Gift Suggestions** - Enter various gifts for certain people when you think of them. When its time to give them a gift (xmas, birthday, anniversary) it will randomly pick one. *Optional: Suggest places you can get it (link to Amazon page?).*
 
