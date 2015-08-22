@@ -17,7 +17,7 @@ for i in 0...26 do
 	get = i + Rotation
 
 	# Do overflow
-	if get > 25
+	if get > 251
 		get -= 26
 	elsif get < 0
 		get += 26
